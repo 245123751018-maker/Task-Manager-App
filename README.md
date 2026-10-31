@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # taskmanager
 # Task Manager App
 
@@ -20,3 +21,7 @@ A full-stack task management application built using the MERN stack (MongoDB, Ex
 1. `cd frontend`
 2. `npm install`
 3. `npm run dev` (Runs on http://localhost:5173)
+=======
+# Task-Manager-App
+its about online banking system
+>>>>>>> a7d47dc43bbc3a6b7a88fff5b4d3761383d4788e
